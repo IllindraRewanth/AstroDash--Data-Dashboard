@@ -1,7 +1,7 @@
 # BrewDash
 # Web Development Project 5 - BrewDash
 
-Submitted by: **Hotragn Pettugani**
+Submitted by: **Illindra Revanth**
 
 This web app: **BrewDash is a comprehensive brewery dashboard that allows users to explore and discover breweries across the United States. It fetches data from the Open Brewery DB API and provides a visually appealing dashboard with search functionality, category filtering, and summary statistics.**
 
@@ -66,19 +66,3 @@ GIF created
 ### Solutions:
 - Used `useEffect` to track filter changes
 - Applied Material UI components and media queries for layout
-
-## License
-
-    Copyright 2025 Hotragn Pettugani
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
